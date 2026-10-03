@@ -216,5 +216,41 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Local datasets and exports
+data/
+datasets/
+exports/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.sqlite
+*.sqlite3
+*.db
+
+# Trained models and experiment artifacts
+models/
+artifacts/
+mlruns/
+mlartifacts/
+*.pkl
+*.pickle
+*.joblib
+*.onnx
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+.aws/
+credentials
+*.pem
+*.key
+
+# Local notebook checkpoints
+.ipynb_checkpoints/
+
 # Streamlit
 .streamlit/secrets.toml
