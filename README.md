@@ -2,7 +2,7 @@
 
 Personal project portfolio by **Samuel González**, documenting collaborative work with **Thunderbolt** during the **Caja de Ahorros Hackathon 2026** in Panama.
 
-**Recognition:** Hackathon finalist  
+**Recognition:** Certificate of outstanding participation
 **Project type:** Collaborative machine learning prototype  
 **Repository status:** Project documentation and synthetic demo available
 
@@ -98,7 +98,7 @@ Any additional code or presentation materials will be reviewed for confidentiali
 
 ## Recognition and Teamwork
 
-I participated as a member of Thunderbolt and was a finalist in the Caja de Ahorros Hackathon 2026.
+I participated as a member of Thunderbolt in the Caja de Ahorros Hackathon 2026 and received a certificate recognizing my outstanding participation.
 
 [View my participation certificate](docs/samuel-gonzalez-hackathon-2026-certificate.pdf).
 
