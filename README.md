@@ -4,7 +4,7 @@ Personal project portfolio by **Samuel González**, documenting collaborative wo
 
 **Recognition:** Hackathon finalist  
 **Project type:** Collaborative machine learning prototype  
-**Repository status:** Documentation in progress
+**Repository status:** Project documentation and synthetic demo available
 
 ## Project Overview
 
@@ -81,11 +81,13 @@ The prototype was not deployed in production. No claim is made about customers r
 
 ## Data Confidentiality
 
-This repository currently contains project documentation only.
+This repository contains project documentation, participation evidence, and an independent post-hackathon demonstration using entirely artificial data.
 
 Customer records, original datasets, credentials, internal infrastructure configuration, and trained model artifacts are excluded.
 
-Any future code or presentation materials will be reviewed for confidentiality and authorship before publication. If an independent demonstration using synthetic data is added, it will be clearly distinguished from the original hackathon submission.
+The synthetic demo was created with AI assistance for educational purposes. Its generated data and results do not represent customers or reproduce the original hackathon submission.
+
+Any additional code or presentation materials will be reviewed for confidentiality and authorship before publication.
 
 ## Key Takeaways
 
@@ -98,7 +100,7 @@ Any future code or presentation materials will be reviewed for confidentiality a
 
 I participated as a member of Thunderbolt and was a finalist in the Caja de Ahorros Hackathon 2026.
 
-[View my hackathon certificate](docs/samuel-gonzalez-hackathon-2026-certificate.pdf).
+[View my participation certificate](docs/samuel-gonzalez-hackathon-2026-certificate.pdf).
 
 ## Explore the Repository
 
