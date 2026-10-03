@@ -32,7 +32,7 @@ The script was executed successfully in a Linux environment with:
 - SciPy 1.17.0
 - scikit-learn 1.8.0
 
-The Windows instructions below have not yet been verified on the portfolio owner's computer.
+The Windows PowerShell instructions were successfully verified on the portfolio owner's computer using Python 3.12.10, NumPy 2.3.5, SciPy 1.17.0, and scikit-learn 1.8.0.
 
 ## Get the Files
 
