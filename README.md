@@ -83,7 +83,7 @@ Any future code or presentation materials will be reviewed for confidentiality a
 
 I participated as a member of Thunderbolt and was a finalist in the Caja de Ahorros Hackathon 2026.
 
-My certificate will be added separately. The project was developed collaboratively by five team members.
+[View my hackathon certificate](docs/samuel-gonzalez-hackathon-2026-certificate.pdf).
 
 ## Project Documentation
 
