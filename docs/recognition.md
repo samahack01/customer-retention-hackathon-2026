@@ -15,7 +15,7 @@ The project was developed collaboratively by five team members. My participation
 
 ## Supporting Evidence
 
-My certificate will be added to this page after preparing a copy suitable for public sharing.
+[View my hackathon certificate (PDF)](samuel-gonzalez-hackathon-2026-certificate.pdf)
 
 ## Scope of This Recognition
 
