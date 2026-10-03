@@ -100,10 +100,16 @@ I participated as a member of Thunderbolt and was a finalist in the Caja de Ahor
 
 [View my hackathon certificate](docs/samuel-gonzalez-hackathon-2026-certificate.pdf).
 
-## Project Documentation
+## Explore the Repository
 
-- [Methodology and technical decisions](docs/methodology.md)
-- [Participation and recognition](docs/recognition.md)
+| Resource | Contents |
+|---|---|
+| [Methodology](docs/methodology.md) | Original project approach, technical decisions, and limitations |
+| [Participation and recognition](docs/recognition.md) | Samuel González's participation and certificate |
+| [Synthetic demo](demo/README.md) | Setup instructions and scope of the educational demonstration |
+| [Demo source code](demo/train_synthetic.py) | Runnable classification example using artificial data |
+
+The synthetic demo was created after the hackathon with AI assistance. It is separate from the original competition submission and does not reproduce customer data or original results.
   
 ## References
 
