@@ -9,7 +9,7 @@ Date: **September 2026**
 
 ## Recognition
 
-I participated as a member of Thunderbolt and was a finalist in the competition.
+I received a certificate recognizing my outstanding participation in the Caja de Ahorros Hackathon 2026 as a member of Thunderbolt.
 
 The project was developed collaboratively by five team members. My participation included data preparation, programming, feature engineering, model training, evaluation, registration, presentation, and coordination.
 
@@ -19,6 +19,6 @@ The project was developed collaboratively by five team members. My participation
 
 ## Scope of This Recognition
 
-The finalist recognition relates to participation in the competition. It does not constitute a professional certification from AWS or evidence of a production deployment.
+This recognition acknowledges participation in the hackathon. It does not constitute a professional certification from AWS or evidence of a production deployment.
 
 The model's internal validation results are documented separately from the competition recognition. The judges' evaluation results are not included in this portfolio.
