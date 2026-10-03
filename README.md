@@ -29,6 +29,21 @@ I contributed to:
 
 The implementation and results were a collective effort. This portfolio describes my involvement without claiming sole authorship of the team's work.
 
+## Project Workflow
+
+The following diagram summarizes the development workflow used during the hackathon. The original data and trained model are not distributed in this repository.
+
+```mermaid
+flowchart TD
+    A["Data preparation and feature engineering"] --> B["Customer-level train-validation split"]
+    B --> C["Training subset: fit Random Forest"]
+    B --> D["Validation subset: evaluate predictions"]
+    C --> D
+    D --> E["Package feature code and register model in MLflow"]
+```
+
+Registration completed the technical submission process. Production deployment and the proposed retention pilot were outside the completed project scope.
+
 ## Technical Approach
 
 The documented solution used:
