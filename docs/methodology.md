@@ -113,4 +113,4 @@ All five team members contributed across the workflow. The implementation and fi
 
 This portfolio excludes original customer records, restricted datasets, credentials, private infrastructure configuration, and trained artifacts.
 
-Any future synthetic-data demonstration will be identified as an independent educational reconstruction created after the hackathon.
+The repository includes an independent educational demonstration created after the hackathon with AI assistance. It uses entirely artificial data and does not reproduce the original submission or its results.
