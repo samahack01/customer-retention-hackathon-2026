@@ -1,0 +1,5 @@
+# Tested dependencies for the post-hackathon synthetic demo.
+# These are not the original competition environment versions.
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
