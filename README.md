@@ -85,6 +85,11 @@ I participated as a member of Thunderbolt and was a finalist in the Caja de Ahor
 
 My certificate will be added separately. The project was developed collaboratively by five team members.
 
+## Project Documentation
+
+- [Methodology and technical decisions](docs/methodology.md)
+- [Participation and recognition](docs/recognition.md)
+  
 ## References
 
 - [Official hackathon announcement](https://www.cajadeahorros.com.pa/se-anuncia-primer-hackathon-2026/)
